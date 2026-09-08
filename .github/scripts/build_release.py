@@ -95,7 +95,7 @@ def main() -> None:
         "deviceCount": len(devices),
     }
     (bundle / "device-assets" / "library.json").write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
-    archive_base = OUTPUT / f"theadmin-device-library-{version}"
+    archive_base = OUTPUT / f"default-{version}"
     zip_path = Path(shutil.make_archive(str(archive_base), "zip", bundle))
     adlib_path = zip_path.with_suffix(".adlib")
     zip_path.replace(adlib_path)
