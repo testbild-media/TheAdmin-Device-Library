@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "device-assets"
-METADATA = ROOT / "library.json"
+METADATA = ASSETS / "library.json"
 OUTPUT = ROOT / "release-output"
 KINDS = {"ethernet", "sfp", "qsfp", "console", "power", "other"}
 RESERVED = {"con", "prn", "aux", "nul", *(f"com{i}" for i in range(1, 10)), *(f"lpt{i}" for i in range(1, 10))}
@@ -94,7 +94,7 @@ def main() -> None:
         "author": author,
         "deviceCount": len(devices),
     }
-    (bundle / "library.json").write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
+    (bundle / "device-assets" / "library.json").write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
     archive_base = OUTPUT / f"theadmin-device-library-{version}"
     zip_path = Path(shutil.make_archive(str(archive_base), "zip", bundle))
     adlib_path = zip_path.with_suffix(".adlib")
