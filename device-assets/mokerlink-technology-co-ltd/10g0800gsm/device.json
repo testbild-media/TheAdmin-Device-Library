@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "vendor": "Mokerlink Technology Co.,Ltd.",
+  "model": "10G0800GSM",
+  "type": "switch",
+  "viewBox": [0, 0, 179.198, 20.612],
+  "ports": [
+    { "label": "1", "kind": "sfp", "element": "rect16" },
+    { "label": "2", "kind": "sfp", "element": "rect16-6" },
+    { "label": "3", "kind": "sfp", "element": "rect16-6-1" },
+    { "label": "4", "kind": "sfp", "element": "rect16-6-4" },
+    { "label": "5", "kind": "sfp", "element": "rect16-6-42" },
+    { "label": "6", "kind": "sfp", "element": "rect16-6-5" },
+    { "label": "7", "kind": "sfp", "element": "rect16-6-9" },
+    { "label": "8", "kind": "sfp", "element": "rect16-6-0" }
+  ]
+}

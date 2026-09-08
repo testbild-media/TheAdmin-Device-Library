@@ -1,0 +1,33 @@
+{
+  "formatVersion": 1,
+  "vendor": "Generic",
+  "model": "24-Port Patchpanel",
+  "type": "patch_panel",
+  "viewBox": [0, 0, 182.28964, 16.262057],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect1-4" },
+    { "label": "2", "kind": "ethernet", "element": "rect1-4-8-1" },
+    { "label": "3", "kind": "ethernet", "element": "rect1-4-8-1-3" },
+    { "label": "4", "kind": "ethernet", "element": "rect1-4-8-1-3-5" },
+    { "label": "5", "kind": "ethernet", "element": "rect1-4-8" },
+    { "label": "6", "kind": "ethernet", "element": "rect1-4-8-2" },
+    { "label": "7", "kind": "ethernet", "element": "rect1-4-5" },
+    { "label": "8", "kind": "ethernet", "element": "rect1-4-8-1-0" },
+    { "label": "9", "kind": "ethernet", "element": "rect1-4-8-1-3-4" },
+    { "label": "10", "kind": "ethernet", "element": "rect1-4-8-1-3-5-4" },
+    { "label": "11", "kind": "ethernet", "element": "rect1-4-8-7" },
+    { "label": "12", "kind": "ethernet", "element": "rect1-4-8-2-6" },
+    { "label": "13", "kind": "ethernet", "element": "rect1-4-9" },
+    { "label": "14", "kind": "ethernet", "element": "rect1-4-8-1-04" },
+    { "label": "15", "kind": "ethernet", "element": "rect1-4-8-1-3-9" },
+    { "label": "16", "kind": "ethernet", "element": "rect1-4-8-1-3-5-2" },
+    { "label": "17", "kind": "ethernet", "element": "rect1-4-8-72" },
+    { "label": "18", "kind": "ethernet", "element": "rect1-4-8-2-86" },
+    { "label": "19", "kind": "ethernet", "element": "rect1-4-6" },
+    { "label": "20", "kind": "ethernet", "element": "rect1-4-8-1-39" },
+    { "label": "21", "kind": "ethernet", "element": "rect1-4-8-1-3-8" },
+    { "label": "22", "kind": "ethernet", "element": "rect1-4-8-1-3-5-1" },
+    { "label": "23", "kind": "ethernet", "element": "rect1-4-8-0" },
+    { "label": "24", "kind": "ethernet", "element": "rect1-4-8-2-8" }
+  ]
+}

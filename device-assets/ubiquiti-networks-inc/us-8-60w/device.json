@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "vendor": "Ubiquiti Networks, Inc.",
+  "model": "US-8-60W",
+  "type": "switch",
+  "viewBox": [0, 0, 193.01936, 39.1586],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect1" },
+    { "label": "2", "kind": "ethernet", "element": "rect1-87" },
+    { "label": "3", "kind": "ethernet", "element": "rect1-87-7" },
+    { "label": "4", "kind": "ethernet", "element": "rect1-87-7-4" },
+    { "label": "5", "kind": "ethernet", "element": "rect1-91" },
+    { "label": "6", "kind": "ethernet", "element": "rect1-87-5" },
+    { "label": "7", "kind": "ethernet", "element": "rect1-87-7-8" },
+    { "label": "8", "kind": "ethernet", "element": "rect1-87-7-4-7" }
+  ]
+}

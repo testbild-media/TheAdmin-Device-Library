@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "vendor": "Sophos Ltd.",
+  "model": "SG 330 Rev.1",
+  "type": "firewall",
+  "viewBox": [0, 0, 200.36481, 19.995655],
+  "ports": [
+    { "label": "E0", "kind": "ethernet", "element": "rect1-5-2" },
+    { "label": "E1", "kind": "ethernet", "element": "rect1-5-2-67" },
+    { "label": "E2", "kind": "ethernet", "element": "rect1-5-2-4" },
+    { "label": "E3", "kind": "ethernet", "element": "rect1-5-2-1" },
+    { "label": "E4", "kind": "ethernet", "element": "rect1-5-2-1-1" },
+    { "label": "E5", "kind": "ethernet", "element": "rect1-5-2-6" },
+    { "label": "E6", "kind": "ethernet", "element": "rect1-5-2-49" },
+    { "label": "E7", "kind": "ethernet", "element": "rect1-5-2-67-2" },
+    { "label": "E8", "kind": "sfp", "element": "rect16" },
+    { "label": "E9", "kind": "sfp", "element": "rect16-0" }
+  ]
+}

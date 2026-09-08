@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "vendor": "FRITZ! GmbH",
+  "model": "FRITZ!Box 7530",
+  "type": "router",
+  "viewBox": [0, 0, 187.97366, 37.704247],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect1" },
+    { "label": "2", "kind": "ethernet", "element": "rect1-7-7" },
+    { "label": "3", "kind": "ethernet", "element": "rect1-7-6" },
+    { "label": "4", "kind": "ethernet", "element": "rect1-7" },
+    { "label": "DSL", "kind": "other", "element": "rect1-7-7-2" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "vendor": "Ubiquiti Networks, Inc.",
+  "model": "UAP-AC-Mesh",
+  "type": "access_point",
+  "viewBox": [0, 0, 104.81761, 161.61285],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect1-5" }
+  ]
+}

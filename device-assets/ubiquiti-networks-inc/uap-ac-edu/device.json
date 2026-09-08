@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "vendor": "Ubiquiti Networks, Inc.",
+  "model": "UAP-AC-EDU",
+  "type": "access_point",
+  "viewBox": [0, 0, 200, 200],
+  "ports": [
+    { "label": "Main", "kind": "ethernet", "element": "rect1-5" }
+  ]
+}

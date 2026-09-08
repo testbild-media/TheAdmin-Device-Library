@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "vendor": "tp-link",
+  "model": "TL-SG605E",
+  "type": "switch",
+  "viewBox": [0, 0, 183.88043, 41.446159],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect1" },
+    { "label": "2", "kind": "ethernet", "element": "rect1-6" },
+    { "label": "3", "kind": "ethernet", "element": "rect1-6-2" },
+    { "label": "4", "kind": "ethernet", "element": "rect1-2" },
+    { "label": "5", "kind": "ethernet", "element": "rect1-63" }
+  ]
+}

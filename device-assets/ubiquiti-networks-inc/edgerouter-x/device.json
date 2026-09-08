@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "vendor": "Ubiquiti Networks, Inc.",
+  "model": "EdgeRouter X",
+  "type": "router",
+  "viewBox": [0, 0, 198.89349, 39.475334],
+  "ports": [
+    { "label": "eth0", "kind": "ethernet", "element": "rect1" },
+    { "label": "eth1", "kind": "ethernet", "element": "rect1-7" },
+    { "label": "eth2", "kind": "ethernet", "element": "rect1-7-9" },
+    { "label": "eth3", "kind": "ethernet", "element": "rect1-7-9-6" },
+    { "label": "eth4", "kind": "ethernet", "element": "rect1-7-9-6-8" }
+  ]
+}
