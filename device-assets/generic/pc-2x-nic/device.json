@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "vendor": "Generic",
   "model": "PC - 2x NIC",
-  "type": "other",
+  "type": "workstation",
   "viewBox": [0, 0, 82.187233, 168.50444],
   "ports": [
     { "label": "1", "kind": "ethernet", "element": "rect1" },

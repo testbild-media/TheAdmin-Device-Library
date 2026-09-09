@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "vendor": "Generic",
+  "model": "Network Socket - 1 Port",
+  "type": "patch_panel",
+  "viewBox": [0, 0, 139.381, 139.381],
+  "ports": [
+    { "label": "1", "kind": "ethernet", "element": "rect10" }
+  ]
+}
